@@ -4,7 +4,7 @@ Created on Wed Mar 20 16:26:49 2019
 
 @author: lucas.barros
 
-Assignement 2: Game of Thrones predictions
+Assignment 2: Game of Thrones predictions
 """
 
 #################################
