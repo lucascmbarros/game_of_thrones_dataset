@@ -57,7 +57,7 @@ X_train_1, X_test_1, y_train_1, y_test_1 = train_test_split(
 
 
 ##############################################################################
-# Instatiating Gradient Boosting Classifier 
+# Instantiate Gradient Boosting Classifier 
 ##############################################################################
 
 gbm_3_1 = GradientBoostingClassifier(loss = 'deviance',
