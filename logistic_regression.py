@@ -75,8 +75,8 @@ got_target =  df.loc[: , 'isAlive']
 X_train, X_test, y_train, y_test = train_test_split(
             got_data,
             got_target,
-            test_size = 0.25,
-            random_state = 777,
+            test_size = 0.1,
+            random_state = 508,
             stratify = got_target)
 
 
